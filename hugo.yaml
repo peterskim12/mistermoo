@@ -1,0 +1,22 @@
+baseURL: https://mistermoo.com/
+languageCode: en-us
+title: mistermoo
+enableRobotsTXT: true
+theme: ["PaperMod"]
+
+params:
+  description: "Website of Peter S. Kim"
+  defaultTheme: "dark"
+  disableThemeToggle: true
+  ShowShareButtons: false
+  ShowReadingTime: true
+
+  homeInfoParams:
+    Title: "Hi there 👋"
+    Content: "Welcome to my website. My name is Peter and I live in Philadelphia, PA USA. This is where I post long-form thoughts on topics that I find interesting--most likely some combination of 1) living in cities, 2) bicycles, and 3) Christianity."
+
+  socialIcons:
+    - name: bluesky
+      url: "https://bsky.app/profile/peterskim.org"
+    - name: youtube
+      url: "https://www.youtube.com/@bromptonpete"
