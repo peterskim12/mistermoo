@@ -107,7 +107,7 @@ One of the perks of tent camping right in the middle of a town is having restaur
 
 {{< image-gallery gallery_dir="images/meyersdale" >}}
 
-Day three is a short day so I took it easy in the morning. After a leisurely breakfast, I didn't leave the campground until 10:30am. Right before getting back on the trail, I noticed there was a small local history museum, the [Meyersdale Historical Society](https://maps.app.goo.gl/XVejbhjvTR9ecTJd7). It had a big train theme; presumably, at one point, this was a train station. It had a gift shop with some GAP Trail merch, so if that was something you wanted to get, keep this place in mind as you travel through Meyersdale.
+Day three was a short day so I took it easy in the morning. After a leisurely breakfast, I didn't leave the campground until 10:30am. Right before getting back on the trail, I noticed there was a small local history museum, the [Meyersdale Historical Society](https://maps.app.goo.gl/XVejbhjvTR9ecTJd7). It had a big train theme; presumably, at one point, this was a train station. It had a gift shop with some GAP Trail merch, so if that was something you wanted to get, keep this place in mind as you travel through Meyersdale.
 
 {{< image-gallery gallery_dir="images/meyersdale-hs" >}}
 
