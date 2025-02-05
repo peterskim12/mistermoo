@@ -135,7 +135,7 @@ I had a late lunch in town at [The Toasted Goat](https://maps.app.goo.gl/GgHDoe4
 
 {{< image-gallery gallery_dir="images/frostburg-town" >}}
 
-From Frostburg to Cumberland is 15 miles. I guess I know I'm a city boy when I feel more comfortable when I see signs of a city. For the night at the end of the ride and before going home, I chose to book a hotel room instead of camping. I enjoy camping but I also like sleeping on a real bed and taking a hot shower. The [Fairfield Inn and Suites](https://maps.app.goo.gl/6vaKAu22wZ7yJJmz9) is literally right off the C&O trail--many of their guests are cyclists doing the GAP Trail so they're very bike friendly. They even have a bike wash station. 
+From Frostburg to Cumberland is 15 miles. I guess I know I'm a city boy when I feel more comfortable when I see signs of a city. For the last night, I chose to book a hotel room instead of camping. I enjoy camping but I also like sleeping on a real bed and taking a hot shower. The [Fairfield Inn and Suites](https://maps.app.goo.gl/6vaKAu22wZ7yJJmz9) is literally right off the C&O trail--many of their guests are cyclists doing the GAP Trail so they're very bike friendly. They even have a bike wash station. 
 
 {{< image-gallery gallery_dir="images/finish-line" >}}
 
