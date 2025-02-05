@@ -1,0 +1,5 @@
+
+{{ $lightboxcss := resources.Get "css/lightbox.css" | minify }}
+{{ $lightboxjs := resources.Get "js/lightbox.js" }}
+<script type="text/javascript" src="{{ $lightboxjs.Permalink }}"></script>
+<link rel="stylesheet" href="{{ $lightboxcss.Permalink }}">
