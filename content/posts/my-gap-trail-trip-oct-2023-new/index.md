@@ -145,7 +145,7 @@ I celebrated the completion of the ride with beer and pizza at [Dig Deep Brewing
 
 ## Tues, Oct 3
 
-While I was done with the GAP Trail, but adventure wasn't quite over yet. I had a few options for getting home. Most people take an Amtrak from Cumberland towards the direction of home. I could've taken an Amtrak to DC, then transferred to a Northeast Regional train back home to Philly. There's another option of taking the [BayRunner Shuttle](https://bayrunnershuttle.com/) which is a ~15 passenger bus that connects Cumberland to Baltimore with stops in between. In retrospect, I should've just taken the Amtrak, but I noticed the shuttle was $50 cheaper, so I booked that instead. 
+I was done with the GAP Trail, but the adventure wasn't quite over yet. I had a few options for getting home. Most people take an Amtrak from Cumberland towards the direction of home. I could've taken an Amtrak to DC, then transferred to a Northeast Regional train back home to Philly. There's another option of taking the [BayRunner Shuttle](https://bayrunnershuttle.com/) which is a ~15 passenger bus that connects Cumberland to Baltimore with stops in between. In retrospect, I should've just taken Amtrak, but I noticed the shuttle was $50 cheaper, so I booked that instead. 
 
 Usually when I travel, I think about my Brompton folding bike as just a piece of luggage, so I didn't think to tell the bus company that I have a bike. It turns out, the buses don't have much luggage capacity, but fortunately, the bus wasn't full and the bus driver put my bike in the front passenger seat. 
 
