@@ -169,5 +169,7 @@ As I wrote this post, I couldn't believe I actually did this trip all by myself.
 
 If you're wondering whether you should do it as a solo trip, I recommend it! There were certainly stretches of the trail where I didn't see anyone else for 20-30 minutes. That may be scary for some but in a world where most of us are addicted to being connected to the internet and feel a constant need for external stimulation, it's really refreshing to spend 3-4 days with minimal human interaction. I actually encountered a few friendly people along the trail; sometimes I would ride with someone else for a bit if I learned we were staying at the same campground that night. There was a women I met who works for a company with people I used to work with; it really is a small world! 
 
+I got a lot of video footage of my ride. I posted almost all the raw video from my ride on my YouTube channel here: [GAP Trail Fall 2023 YouTube playlist](https://www.youtube.com/playlist?list=PLc0_qLrsLR37_Z7IIxvi99-rqU7u331QJ).
+
 My hope is this post helps people consider doing the GAP Trail. It really is one of the easiest ways to do a multi-day bike trip in the United States, even if you don't consider yourself a "hard core" cyclist. If you have any questions, please feel free to [DM me on Bluesky](https://bsky.app/profile/peterskim.org).
 
