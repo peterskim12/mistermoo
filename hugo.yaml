@@ -4,6 +4,7 @@ title: mistermoo
 enableRobotsTXT: true
 theme: ["PaperMod"]
 buildDrafts: true
+timeout: "90s"
 
 params:
   description: "Website of Peter S. Kim"
