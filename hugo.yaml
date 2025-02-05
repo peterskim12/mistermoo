@@ -22,3 +22,7 @@ params:
       url: "https://bsky.app/profile/peterskim.org"
     - name: youtube
       url: "https://www.youtube.com/@bromptonpete"
+
+services:
+  googleAnalytics:
+    id: G-7C2LNRFV7B
