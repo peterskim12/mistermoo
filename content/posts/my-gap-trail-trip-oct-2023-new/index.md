@@ -18,7 +18,7 @@ If you haven't heard of the [GAP (Great Allegheny Passage) Trail](https://gaptra
 
 ---
 
-At this point, hopefully I've eased some of your concerns about doing something like the GAP Trail even if you've never done anything remotely close to it before. While the GAP Trail is probably the easiest and most convenient 150 miles bike trip you can do in the US, I still recommend taking the time to plan your trip weeks, if not months, in advance. There are so many different permutations for doing the GAP Trail depending on how much time you have, your physical abilities, budget, etc. so I'm not going to even try to give you all the options. What I'll present here is exactly how I went about planning my trip and what I ended up doing.
+At this point, hopefully I've eased some of your concerns about doing something like the GAP Trail even if you've never done anything remotely close to it before. While the GAP Trail is probably the easiest and most convenient 150 mile bike trip you can do in the US, I still recommend taking the time to plan your trip weeks, if not months, in advance. There are so many different permutations for doing the GAP Trail depending on how much time you have, your physical abilities, budget, etc. so I'm not going to even try to give you all the options. What I'll present here is exactly how I went about planning my trip and what I ended up doing.
 
 It can be overwhelming to take in all the information and start to make decisions about what kind of trip you do. I hope my trip plans are helpful for you to in case you want to do something similar. 
 
