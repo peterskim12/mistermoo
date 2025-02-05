@@ -22,7 +22,7 @@ At this point, hopefully I've eased some of your concerns about doing something 
 
 It can be overwhelming to take in all the information and start to make decisions about what kind of trip you do. I hope my trip plans are helpful for you to in case you want to do something similar. 
 
-## Trip duration: three or four days? Or even less???
+## Trip duration: three or four days? Or even less?
 
 One of the first decisions you'll need to make is the duration of your trip. I've heard the most popular itinerary is a four-day ride. If you have the time to ride four days in addition to the time to get to the trail and back home, I would recommend that because a four day ride provides an ideal even spacing of mileage between towns that offer lodging and food. I had previous commitments which forced me to do the GAP Trail in three days. The best three day itinerary I could come up with that lands me in a town where I can sleep and get something to eat is:
 
@@ -97,7 +97,7 @@ I stopped for lunch in Confluence, PA at the [Rivers Edge Cafe](https://maps.app
 
 I wish I had more time to go at a leisurely pace because by the time I finished my beers at Trailhead, I still had another 12 miles to go to get to the campground in Meyersdale. Distance-wise, Rockwood would've been a great place to end the day, but there aren't any campgrounds or other lodging in town. I left the brewery around 6pm and knew I had to get moving if I wanted to set up my tent while there was still light out. I made it to the [Festival Park Campground](https://maps.app.goo.gl/KBFLLBSarbyThtvd7) just in time. 
 
-This campground doesn't have the amenities that the Uniontown KOA had. This site is the home of the Pennsylvania Maple Festival which happens in April. There are some other events that take place here but at other times, this is a small campground right in the middle of town that feels like you're in someone's big backyard. 
+This campground doesn't have the amenities that the Uniontown KOA had. This site is the home of the [Pennsylvania Maple Festival](https://www.pamaplefestival.com/) which happens in April. There are some other events that take place here but at other times, this is a small campground right in the middle of town that feels like you're in someone's big backyard. 
 
 {{< image-gallery gallery_dir="images/festival-park-campground" >}}
 
