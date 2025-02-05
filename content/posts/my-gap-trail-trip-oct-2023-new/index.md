@@ -4,7 +4,7 @@ draft = false
 title = 'My GAP Trail Trip Oct 2023'
 +++
 
-I've always mostly been a commuter/utility cyclist but I also was intrigued by the idea of cycling being a means of exploring. One of my neighbors told me about a bike adventure she had on the GAP Trail and I was intrigued. 
+I've always mostly been a commuter/utility cyclist but I also was interested in the idea of cycling being a means of exploration. One of my neighbors told me about a bike adventure she had on the GAP Trail and I was intrigued. 
 
 If you haven't heard of the [GAP (Great Allegheny Passage) Trail](https://gaptrail.org/), it's a ~150 mile bike trail that's 95+% separated from automobiles that connects Pittsburgh, Pennsylvania and Cumberland, Maryland. While that sounds daunting to folks who've never considered cycling anywhere close to that distance, there are many reasons why the GAP Trail is one of the most accessible trails to do a multi-day bike trip.
 
