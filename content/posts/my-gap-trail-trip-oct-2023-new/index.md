@@ -6,6 +6,8 @@ title = 'My GAP Trail Trip Oct 2023'
 
 I've always mostly been a commuter/utility cyclist but I also was interested in the idea of cycling being a means of exploration. One of my neighbors told me about a bike adventure she had on the GAP Trail and I was intrigued. 
 
+![GAP Trail map and details](images/gap-trail-map-overview.png)
+
 If you haven't heard of the [GAP (Great Allegheny Passage) Trail](https://gaptrail.org/), it's a ~150 mile bike trail that's 95+% separated from automobiles that connects Pittsburgh, Pennsylvania and Cumberland, Maryland. While that sounds daunting to folks who've never considered cycling anywhere close to that distance, there are many reasons why the GAP Trail is one of the most accessible trails to do a multi-day bike trip.
 
 1) **Hard trail surface.** The GAP Trail is almost entirely either hard-packed fine limestone or paved asphalt. This means you don't need a special gravel or touring bike or any particular type of tires for the GAP Trail. Being able to have a multi-day bike adventure with the bike you already have eliminates potentially the largest expense to preparing for a bike trip. I did my GAP Trail ride with my Brompton folding bicycle which as 16" wheels and urban commuter tires!
@@ -19,6 +21,8 @@ If you haven't heard of the [GAP (Great Allegheny Passage) Trail](https://gaptra
 ---
 
 At this point, hopefully I've eased some of your concerns about doing something like the GAP Trail even if you've never done anything remotely close to it before. While the GAP Trail is probably the easiest and most convenient 150 mile bike trip you can do in the US, I still recommend taking the time to plan your trip weeks, if not months, in advance. There are so many different permutations for doing the GAP Trail depending on how much time you have, your physical abilities, budget, etc. so I'm not going to even try to give you all the options. What I'll present here is exactly how I went about planning my trip and what I ended up doing.
+
+![Bike at Pittsburgh Union Station](images/brompton-at-pittsburgh-union.jpeg)
 
 It can be overwhelming to take in all the information and start to make decisions about what kind of trip you do. I hope my trip plans are helpful for you to in case you want to do something similar. 
 
@@ -45,7 +49,11 @@ There are also people who do the GAP Trail in two days or even one, but you'll l
 
 I don't own a car so the ability to get to and from the trail was a big draw for me. I live just under three miles from 30th Street Station which is Philly's main Amtrak station, so I biked from my house to the train station around noon to catch the 12:42pm Pennsylvanian train to Pittsburgh. 
 
+![Bike at 30th St Station, Philadelphia](images/brompton-at-30th.jpeg)
+
 If you have a full size bike, you may have to include a bike reservation with your Amtrak ticket depending on the route. The Pennsylvanian requires bike reservation and offers Trainside Checked Bicycle Service. If you have a folding bike like me, the folded bicycle is treated as luggage and you can bring it on board as long as it fits in the normal luggage storage areas or overhead compartment. Here are all the details about what sort of bicycle accomodations are available on various routes: [https://www.amtrak.com/bring-your-bicycle-onboard](https://www.amtrak.com/bring-your-bicycle-onboard). 
+
+![Bike on train](images/brompton-on-train.jpeg)
 
 The train ride from Philly to Pittsburgh is seven hours long. I don't remember exactly what I did on the train ride, but I recall the time passing more quickly than I expected. There's a cafe car on the Pennsylvanian--Amtrak food isn't great, but you won't starve. One of the highlights of this train route is traveling on the famous [Horseshoe Curve](https://en.wikipedia.org/wiki/Horseshoe_Curve_(Pennsylvania)). 
 
