@@ -3,7 +3,7 @@ languageCode: en-us
 title: mistermoo
 enableRobotsTXT: true
 theme: ["PaperMod"]
-buildDrafts: true
+buildDrafts: false
 timeout: "120s"
 
 params:
