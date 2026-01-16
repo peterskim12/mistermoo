@@ -1,6 +1,6 @@
 ---
 date: '2026-01-16T07:47:01-05:00'
-draft: true
+draft: false
 title: 'Tech Blog'
 ---
 I've obviously been bad at keeping this blog up to date so why not create another one? :) I like to keep my personal and work lives separate so I created a new blog at [peterskim.org](http://peterskim.org) to write about tech stuff.
